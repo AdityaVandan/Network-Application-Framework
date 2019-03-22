@@ -1,0 +1,1 @@
+java -classpath build\libs\*;..\build\libs\*;..\..\nafserver\testcases\build\libs\*;..\..\nafserver\build\libs\*;. com.client.Main

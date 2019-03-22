@@ -1,0 +1,1 @@
+java -classpath build\libs\*;..\build\libs\*;c:\itext\*;. com.library.Main

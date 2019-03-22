@@ -1,0 +1,5 @@
+apply plugin: 'java'
+dependencies {
+compile files("c:/itext/itextpdf-5.5.3.jar")
+compile files("c:/coding/projects/naf/nafcommon/build/libs/nafcommon.jar")
+}
